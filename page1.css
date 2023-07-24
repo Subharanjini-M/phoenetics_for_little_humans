@@ -1,0 +1,55 @@
+li{
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+body{
+    background-image: url(image.jpg);
+    background-position:center ;
+    background-size: cover;
+    background-repeat:no-repeat ;
+    height: 150vh;
+}
+
+.alphabet_button{
+    font-size: 40px; 
+    padding: 30px 50px; 
+    border: none;
+    background-image: url(bg.jpeg);
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 20px; 
+    margin-left: 20px;
+    line-height: 1.5;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    
+   
+}
+
+.alphabet_button:hover{
+    color: rgb(188, 118, 254);
+}
+
+
+#heading{
+    text-align: center;
+    color: rgba(210, 30, 180, 0.462);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#completed{
+    background-image: url(bg.jpeg);
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 30px;
+    font-family: "Times New Roman"; 
+    margin-left: 40%;
+}
+
+#completed:hover{
+    color: rgb(188, 118, 254);
+}
