@@ -17,7 +17,7 @@ Empowering Parents: By involving parents in the learning process, the project em
 Note:
 
 1. Run the home.html file first
-2. Make sure that the audio fikes are in correct directories
+2. Make sure that the audio fiLes are in correct directories
 3. Changes are required in thw code, if the the source audio file is placed outside the 'sounds' folder
 4. The audio files are subjected to changes. And would be changed at any time, when the appropriate audio file is created.
 5. Audio credits to the respective audio creator.
